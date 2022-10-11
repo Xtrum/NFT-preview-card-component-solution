@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Links
 
 Font link: https://fonts.googleapis.com/css2?family=Outfit&display=swap
-Live site link: 
+Live site link: https://xtrum.github.io/NFT-preview-card-component-solution/
 
 ## Tools
 - HTML 
@@ -43,6 +43,6 @@ Live site link:
 - I also get hold of a better use of flexbox(align-items especially), display & gap
 
 ## Author
-- Webstie - 
+- Webstie - https://xtrum.github.io/NFT-preview-card-component-solution/
 - Frontend Mentor - [@Xtrum](https://www.frontendmentor.io/profile/Xtrum)
 - Twitter - [@hoobhejay](https://www.twitter.com/hoobhejay)
